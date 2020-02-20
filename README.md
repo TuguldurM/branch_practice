@@ -10,4 +10,5 @@ These are a few of my favorite things:
 - Not editing directly on GitHub
 - more changes
 - tea
+- whiskers
 practice with git branches
